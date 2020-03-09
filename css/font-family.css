@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Harenosora';
+  src: url('font/Harenosora.woff') format('woff'), url('font/Harenosora.woff2') format('woff'), url('font/Harenosora.otf') format('truetype');
+}
+@font-face {
+  font-family: 'learning-curve';
+  font-weight: 700;
+  src: url('font/LearningCurve-Bold.eot');
+  src: url('font/LearningCurve-Bold.eot?#iefix') format('embedded-opentype'), url('font/LearningCurve-Bold.woff') format('woff'), url('font/LearningCurve-Bold.ttf') format('truetype'), url('font/LearningCurve-Bold.svg') format('svg');
+}
